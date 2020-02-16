@@ -1,0 +1,7 @@
+
+a=input()
+b=a//3600
+c=a%3600
+h=c//60
+s=c%60
+print(b,h,s)
